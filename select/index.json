@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Enter",
+  "base_artist": "零",
+  "createdAt": "2026-02-18T15:30:50.255471Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Enter The Ninja",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/01_Enter_The_Ninja_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Enter The Ninja - DJ Fishsticks Remix",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/02_Enter_The_Ninja_-_DJ_Fishsticks_Remix_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Enter The Ninja (DJ Fish Sticks Remix)",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/03_Enter_The_Ninja_(DJ_Fish_Sticks_Remix)_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Enter Sandman",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/04_Enter_Sandman_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "As We Enter",
+      "artist": "NAS & Damian Marley",
+      "has_synced": true,
+      "path": "select/05_As_We_Enter_NAS_&_Damian_Marley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Enter the Arena",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/06_Enter_the_Arena_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Enter My Dream",
+      "artist": "Kenny Loggins",
+      "has_synced": true,
+      "path": "select/07_Enter_My_Dream_Kenny_Loggins.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Enter",
+      "artist": "Bondax",
+      "has_synced": false,
+      "path": "select/08_Enter_Bondax.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Wicked Shall Enter the Kingdom of Zion (Extmix)",
+      "artist": "Barry Brown",
+      "has_synced": false,
+      "path": "select/09_No_Wicked_Shall_Enter_the_Kingdom_of_Zion_(Extmix)_Barry_Brown.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Enter the Scope",
+      "artist": "Charles Hamilton",
+      "has_synced": false,
+      "path": "select/10_Enter_the_Scope_Charles_Hamilton.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Enter Laughing",
+      "artist": "Electrelane",
+      "has_synced": false,
+      "path": "select/11_Enter_Laughing_Electrelane.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Enter Vril-Ya",
+      "artist": "Therion",
+      "has_synced": true,
+      "path": "select/12_Enter_Vril-Ya_Therion.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Enter",
+      "artist": "零",
+      "has_synced": false,
+      "path": "select/pl_01_Enter_零.txt"
+    }
+  ]
+}
