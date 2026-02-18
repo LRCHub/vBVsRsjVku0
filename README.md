@@ -1,0 +1,62 @@
+# 零 – Enter
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I'd rather walk with you in dark, than alone in
+light
+I found a way 世界の果てへ
+(There's no limit...)
+辿り着けるひとりじゃないなら
+So very far away?? It's not that far away
+There is no limit
+運命に引き寄せられ交わった仲間たち
+共に四つ葉に祈り命懸け踏み出した足
+I'm alright... It's gonna be alright alright
+リスクはいつも隣り合わせでも
+躍る心 身を委ねReady set go
+何が起きてもGo forward...
+乗り越えていこう Grow up...
+Don't be afraid この旅
+I wanna see 世界の端
+困難な迷宮(ダンジョン)燃える質
+踏破目指す深淵の扉(アビスゲート)
+夢のための冒険
+I'd rather walk with you in dark, than alone in
+light
+I found a way 世界の果てへ
+(There's no limit...)
+辿り着けるひとりじゃないなら
+So very far away?? It's not that far away
+There is no limit
+Oh yeah
+Let's get it 見せてあげよう
+積み重ねてきたモノ
+どんなマイナスさえもプラスに変え上げてく階層
+誰にも止められやしないもう
+巻かれない長いもの
+Rise above
+信念のもと巻き起こしてく暴風(サイクロン)
+自分で決めた道
+揺るがない使命と意志
+ありふれた誰かに作られた物語はいらない
+This is my story Alright?
+I'd rather walk with you in dark, than alone in
+light
+I found a way 世界の果てへ
+(There's no limit...)
+辿り着けるひとりじゃないなら
+So very far away?? It's not that far away
+There is no limit
+朽ちることなく輝け
+偽りないありのままで
+見失わない I'll go my way
+導き出してきた答え
+I'd rather walk with you in dark, than alone in
+light
+I found a way 世界の果てへ
+(There's no limit...)
+辿り着けるひとりじゃないなら
+So very far away?? It's not that far away
+There is no limit
+```
